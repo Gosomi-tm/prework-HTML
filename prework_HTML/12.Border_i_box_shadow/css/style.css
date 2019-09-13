@@ -1,0 +1,33 @@
+.popup{
+    width: 400px;
+    height: 100px;
+    background-color: beige;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.ellipse{
+    width: 180px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 60%;
+    display: inline-block;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 100%;
+    display: inline-block;
+}
+.lime{
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 0% 30%;
+    display: inline-block;
+}

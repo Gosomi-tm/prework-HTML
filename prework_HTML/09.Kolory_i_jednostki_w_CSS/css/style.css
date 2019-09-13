@@ -1,0 +1,41 @@
+.first-span{
+    color: aquamarine;
+}
+.second-span{
+    color: violet;
+}
+
+p{
+    color: blue;
+}
+.parf-first-span{
+    color: red;
+}
+.parf-second-span{
+    color: green;
+}
+
+.parf-third-span{
+    color: darkkhaki;
+}
+.p1{
+    background-color: #345678;
+}
+.p2{
+    background-color: rgba(255, 0,255, 0.8);
+}
+.p3{
+    background-color: hsl(0, 100%, 50%);
+}
+.container{
+    background-color: blueviolet;
+    width: 200px;
+}
+.first{
+    background-color: green;
+    width: 50%;
+}
+.second{
+    background-color: cyan;
+    width: 10em;
+}
